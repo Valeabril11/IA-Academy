@@ -1,1 +1,4 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/components/layout/sidebar.tsx","./src/components/learning/flashcards.tsx","./src/components/learning/quiz.tsx","./src/data/course.ts","./src/hooks/useprogress.ts","./src/modules/modulo-1/index.ts","./src/modules/modulo-2/index.ts","./src/modules/modulo-3/index.ts","./src/modules/modulo-4/index.ts","./src/modules/modulo-5/index.ts","./src/pages/dashboard.tsx","./src/pages/lessonpage.tsx","./src/pages/modulepage.tsx","./src/types/course.ts"],"errors":true,"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/layout/sidebar.tsx","./src/components/learning/flashcards.tsx","./src/components/learning/quiz.tsx","./src/data/course.ts","./src/hooks/useprogress.ts","./src/modules/modulo-1/index.ts","./src/modules/modulo-2/index.ts","./src/modules/modulo-3/index.ts","./src/modules/modulo-4/index.ts","./src/modules/modulo-5/index.ts","./src/pages/dashboard.tsx","./src/pages/lessonpage.tsx","./src/pages/modulepage.tsx","./src/types/course.ts"],"version":"5.9.3"}
+
+
+
