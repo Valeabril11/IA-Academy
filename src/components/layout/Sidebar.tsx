@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { BrainCircuit, LayoutDashboard, BookOpen, Sparkles } from 'lucide-react';
+import { BrainCircuit, LayoutDashboard, Sparkles } from 'lucide-react';
 import { course } from '../../data/course';
 export function Sidebar() { return <aside className="sidebar"><NavLink to="/" className="brand">
     <span className="brand-icon"><BrainCircuit size={23}/></span><span>AI <strong>Academy</strong>
